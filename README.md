@@ -34,7 +34,7 @@ npm install
 3. Crear archivo `.env` con el siguiente contenido:
 
 ```env
-MONGO_URL=tu_url_de_mongo
+MONGO_URL=mongodb+srv://victoriastaltari:coder123@cluster0.vietl.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 PORT=3000
 ```
 
